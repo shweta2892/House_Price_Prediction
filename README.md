@@ -45,9 +45,9 @@ We use the [Kaggle House Prices Dataset](https://www.kaggle.com/competitions/hou
 - Jupyter Notebook
 
 # How to run 
-- Clone the Repository
-cd house-price-prediction
-- Install requirement 
-pip install -r requirements.txt
-- Run python script
-python main.py
+1. Clone the Repository
+  cd house-price-prediction
+2. Install requirement 
+  pip install -r requirements.txt
+3. Run python script
+  python main.py
